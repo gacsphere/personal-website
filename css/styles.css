@@ -110,3 +110,9 @@
       url("../fonts/ibm-plex-mono-v12-latin-600italic.svg#IBMPlexMono")
       format("svg"); /* Legacy iOS */
 }
+
+p {
+    font-family: "IBM Plex Mono";
+    font-style: normal;
+    font-weight: 400;
+}
