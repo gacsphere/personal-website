@@ -111,8 +111,45 @@
       format("svg"); /* Legacy iOS */
 }
 
-p {
+h1 {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+  p {
     font-family: "IBM Plex Mono";
     font-style: normal;
     font-weight: 400;
+    font-size: 20px;
 }
+
+ul {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+section {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+figurecaption {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 16px;
+}
+
